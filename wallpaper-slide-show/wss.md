@@ -6,7 +6,7 @@ This program allows you to change your desktop wallpaper by cycling through imag
 You can control the delay between wallpaper changes and choose whether to repeat the process indefinitely.
 
 ### How to use:
-Download or copy the code <a href="">`wss.cpp`</a>.<br>
+Download or copy the code <a href="https://github.com/ip-repo/cpp-collection/blob/main/wallpaper-slide-show/wss.cpp">`wss.cpp`</a>.<br>
 Compile the program:
 ```console
 g++ wss.cpp -o wss
