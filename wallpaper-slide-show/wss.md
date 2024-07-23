@@ -1,9 +1,6 @@
 # Wallpaper Slide Show
 
-[x.webm](https://github.com/user-attachments/assets/c219aa77-39e7-47ff-99ce-26f001dec475)
-
-
-
+![wss](https://github.com/user-attachments/assets/4e69709f-f90c-4cf6-9f31-b70489199c9b)
 
 This program allows you to change your desktop wallpaper by cycling through images from a specified folder.
 You can control the delay between wallpaper changes and choose whether to repeat the process indefinitely.
