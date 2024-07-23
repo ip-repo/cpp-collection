@@ -1,4 +1,9 @@
 # Wallpaper Slide Show
+
+![wss3](https://github.com/user-attachments/assets/87c88f85-2df5-425b-9cf3-649cb949e1f4)
+
+
+
 This program allows you to change your desktop wallpaper by cycling through images from a specified folder.
 You can control the delay between wallpaper changes and choose whether to repeat the process indefinitely.
 
@@ -27,4 +32,5 @@ wss C:\Path\to\images\folder\ 10000 -1
 **Notes:**
 - Ensure that the specified image folder contains compatible image files (e.g., JPEG, PNG).
 - Administrative privileges might be required for wallpaper changes.
+- Performance might be different depending on the system hardware.
 
